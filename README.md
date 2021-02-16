@@ -42,6 +42,6 @@ generate_erd.py <sqlite database file> -f <name of formatter>
 
 ## License 
 
-This project is licensed under the MIT license. See (LICENSE)[./LICENSE] for more
+This project is licensed under the MIT license. See LICENSE for more
 information.
 
